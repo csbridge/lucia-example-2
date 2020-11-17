@@ -1,7 +1,7 @@
 [
     {
-        "title_en": "Karel",
-        "title_tr": "Karel",
+        "title_en": "Hello Test",
+        "title_tr": "Hello",
         "bonus": false,
         "sections": [
             {
